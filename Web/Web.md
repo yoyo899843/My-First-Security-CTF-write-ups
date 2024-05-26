@@ -12,6 +12,7 @@
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+
 題目有提示[相關hex to string及base64 編碼] 所以就用解碼器去解碼
 ## web-5:HTTP method
 預設的GET無法進入網站
