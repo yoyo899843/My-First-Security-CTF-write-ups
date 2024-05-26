@@ -1,16 +1,16 @@
 ## linux CTF 1
-ª½±µ³s±µ»·ºİ¦øªA¾¹¦A§âflagÀÉ®×¥s¥X¨Ó
+ç›´æ¥é€£æ¥é ç«¯ä¼ºæœå™¨å†æŠŠflagæª”æ¡ˆå«å‡ºä¾†
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ## linux CTF 2
-lsªº¶i¶¥¥Îªk
+lsçš„é€²éšç”¨æ³•
 ![alt text](image-3.png)
 ## linux CTF 3
-xxd ªº¥Îªk
+xxd çš„ç”¨æ³•
 ![alt text](image-4.png)
 ## linux CTF 4
-base64 ªº¥Îªk
+base64 çš„ç”¨æ³•
 ![alt text](image-5.png)
 ## linuc CTF 5
 ![](image-9.png)
@@ -18,8 +18,8 @@ base64 ªº¥Îªk
 ## linux CTF 8
 ![alt text](image-6.png)
 ## linux CTF 9
-¨Ï¥Îwget¤U¸üÀÉ®×
+ä½¿ç”¨wgetä¸‹è¼‰æª”æ¡ˆ
 ![alt text](image-7.png)
-¦A¥Îchmod 777 ´£¤ÉÅv­­ ´N¥i¥H./°õ¦æ 
+å†ç”¨chmod 777 æå‡æ¬Šé™ å°±å¯ä»¥./åŸ·è¡Œ 
 ![alt text](image-8.png)
 ##  
